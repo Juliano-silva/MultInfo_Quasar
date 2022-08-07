@@ -1,0 +1,27 @@
+{
+  "ingredientes": {
+    "opcionais": []
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "nome": "Juliano",
+      "Text": "Olá Meu nome é Juliano silva de almeida",
+      "status": "Solicitados",
+      "id": 11
+    }
+  ]
+}

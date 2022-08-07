@@ -1,0 +1,75 @@
+{
+  "ingredientes": {
+    "opcionais": []
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "nome": "BOX",
+      "opcionais": [],
+      "status": "Solicitados",
+      "id": 1
+    },
+    {
+      "nome": "fsa",
+      "opcionais": [],
+      "status": "Solicitados",
+      "id": 2
+    },
+    {
+      "nome": "asf",
+      "opcionais": [],
+      "status": "Solicitados",
+      "id": 3
+    },
+    {
+      "nome": "fas",
+      "status": "Solicitados",
+      "id": 4
+    },
+    {
+      "nome": "QWERTYT",
+      "status": "Solicitados",
+      "id": 5
+    },
+    {
+      "nome": "asf",
+      "status": "Solicitados",
+      "id": 6
+    },
+    {
+      "nome": "gdsgdsgds",
+      "status": "Solicitados",
+      "id": 7
+    },
+    {
+      "nome": "saf",
+      "status": "Solicitados",
+      "id": 8
+    },
+    {
+      "nome": "gdsgsa",
+      "status": "Solicitados",
+      "id": 9
+    },
+    {
+      "nome": "saf",
+      "Text": "wey236",
+      "status": "Solicitados",
+      "id": 10
+    }
+  ]
+}
